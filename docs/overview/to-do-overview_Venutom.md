@@ -48,7 +48,7 @@ For more see [Tutorials](#tutorials).
 Please ensure that you've completed the [installation](../before-you-start-a-tutorial.md) instructions on the development system you'll use for the tutorial.
 
 ## Enroll a new user
-=======
+
 ### Adding New Users and Tasks
 
 For more see [Tutorials](#tutorials).
